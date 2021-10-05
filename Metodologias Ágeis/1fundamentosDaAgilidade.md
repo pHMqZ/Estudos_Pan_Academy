@@ -72,10 +72,12 @@ Ser ágil é ser responsivo a mudanças
 *PRODUTO* </br>
 6. Simplicidade: Entregar apenas o necessário, atendendo a demanda requisitada, as outras features podem ser entregas depois. 20% do que é entregue tem 80% do valor; </br>
 7. Excelência técnica: Atender a demanda conforme requisitado, sem atalhos; </br>
-8. Conversação face a face: A documentação você já fez, então use melhor meio de comunicação face a face. </br>
-9. Cliente como integrante da equipe: o Product Owner tem que fazer a ponte entre cliente e desenvolvedores, respondendos suas dúvidas; </br>
-10. Equipes auto-organizáveis: A Equipe que define como será resolvidos os problemas, sem chefes; </br>
-11. Confiança e apoio: Motivação é a chave para as pessoas serem produtivas; </br>
+
+*PESSOAS* </br>
+9. Conversação face a face: A documentação você já fez, então use melhor meio de comunicação face a face. </br>
+10. Cliente como integrante da equipe: o Product Owner tem que fazer a ponte entre cliente e desenvolvedores, respondendos suas dúvidas; </br>
+11. Equipes auto-organizáveis: A Equipe que define como será resolvidos os problemas, sem chefes; </br>
+12. Confiança e apoio: Motivação é a chave para as pessoas serem produtivas; </br>
 
 *PROCESSO*
 
