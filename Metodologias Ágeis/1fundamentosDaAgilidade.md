@@ -51,8 +51,8 @@ Final dos 80's: internet e computador, tornaram os problemas mais complexos e fo
 ---
 ***MENTALIDADE ÁGIL*** </br>
 "Estamos *descobrindo* maneiras *melhores* de desenvolver software..." - ( Aprender com o erro)
-Ser ágil é ser responsivo a mudanças
 
+Ser ágil é ser responsivo a mudanças
 
 - Enxergar reveses como oportunidade de aprendizagem;
 - Adotar ciclos curtos, colaboração, e mudança;
