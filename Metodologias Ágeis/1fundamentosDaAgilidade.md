@@ -50,9 +50,9 @@ Final dos 80's: internet e computador, tornaram os problemas mais complexos e fo
 
 ---
 ***MENTALIDADE ÁGIL*** </br>
-"Estamos *descobrindo* maneiras *melhores* de desenvolver software..."
+"Estamos *descobrindo* maneiras *melhores* de desenvolver software..." - ( Aprender com o erro)
 
-- Enchergar reveses como oportunidade de aprendizagem;
+- Enxergar reveses como oportunidade de aprendizagem;
 - Adotar ciclos curtos, colaboração, e mudança;
 - Focar na entrega de valor.
 
