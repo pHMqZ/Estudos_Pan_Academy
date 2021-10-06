@@ -84,8 +84,7 @@ Detalha tudo que (se pode modificar e melhorar que) será necessário no produto
 ***ESTIMATIVAS***
 
 **Acurácia x Esforço:**
-Um pouco de esforço ajuda muito
-Muito esforço ajuda pouco
+Um pouco de esforço ajuda muito/Muito esforço ajuda pouco
 
 - Story point - Abordadem em pontos e não em horas: Cmplexidade, Tamanho, Risco,
 Usa-se a Sequencia de Fibonacci, porém problemas menores =  mais preciso; problemas maiores = menos precisos: 
