@@ -35,6 +35,6 @@ Complexo, há muitas áreas a serem dominadas <br>
 ---
 ***Modelo Spotify x SAFe*** <br>
 
-Não é um Modelo x Fou feto para as empresas <br>
+Não é um Modelo x Foi feito para as empresas <br>
 Empresa que nasceu com a cultura ágil e cresceu x Tira a liberdade, por que diz exatamente o que fazer <br>
 ### Leia exemplos e aplique a melhor para sua empresa
