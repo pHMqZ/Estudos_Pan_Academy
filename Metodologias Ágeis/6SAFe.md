@@ -4,7 +4,7 @@ Complexo, há muitas áreas a serem dominadas <br>
 
 **Sete questões de competências:**
 1. Team and Technical Agility(Agilidade de Equipe e Técnica): 
-  - Em questão de equipes, muito parecido com o Scram e Spotify
+  - Em questão de equipes, muito parecido com o Scrum e Spotify
   - Definir uma solução, construir, testar e fazer a entrega.
   - Tem em torno de 5 a 11 pessoas.
   - Trabalham usando interações = sprint. (Pode ser usado qualquer modelo e combinações de modelo).
@@ -35,6 +35,6 @@ Complexo, há muitas áreas a serem dominadas <br>
 ---
 ***Modelo Spotify x SAFe*** <br>
 
-Não é um Modelo x Fiu feto para as empresas <br>
+Não é um Modelo x Fou feto para as empresas <br>
 Empresa que nasceu com a cultura ágil e cresceu x Tira a liberdade, por que diz exatamente o que fazer <br>
 ### Leia exemplos e aplique a melhor para sua empresa
